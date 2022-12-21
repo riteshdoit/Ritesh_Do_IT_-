@@ -1,3 +1,5 @@
+//1. Create arrayList, add the integer elements in arrayList using asList(). Remove the duplicate values and return an arrayList containing unique values. Implement the logic inside removeDuplicates() method. Test the functionalities using the main () method of the  Tester class.
+//Sample Input and Output---------10, 20, 10, 15,40,15,40   --- 10,20,15,40
 import java.util.*;
 class Tester{
     public static <T> ArrayList<T> removeDuplicates(ArrayList<T> list)
