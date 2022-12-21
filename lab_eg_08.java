@@ -1,3 +1,7 @@
+8.      Write a Java Program to count the number of words in a string using HashMap.
+Input: Enter String: " This this is is done by Saket Saket ";
+         	{Saket=2, by=1, this=1, This=1, is=2, done=1}
+
 import java.util.HashMap;
 import java.util.Map;
 
