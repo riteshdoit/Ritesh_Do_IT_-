@@ -1,3 +1,6 @@
+10.Write a Java Program to iterate ArrayList using for-loop, iterator, and advance for-loop. Insert 3 Array List. Input : 20 30 40 
+       Output:  Iterator Loop:  20 30 40                   Advanced For Loop: 20 30 40                        for Loop: 20 30 40
+
 import java.util.ArrayList;
 import java.util.Iterator;
 
