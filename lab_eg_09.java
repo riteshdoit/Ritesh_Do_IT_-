@@ -1,3 +1,5 @@
+9 .a) Write a program to take the input array element and convert all the elements into next prime numbers and display the changed array.
+
 import java.util.*;
 import java.lang.*;
 
