@@ -1,3 +1,7 @@
+3.Find and return the average salary, number of salaries greater than the average salary and number of salaries lesser than the average salary from the salary array passed to the findDetails() method. Method should return a double array containing average salary in index position 0, number of salaries greater than the average salary in index position 1 and number of salaries lesser than the average salary in index position 2. Implement the logic inside findDetails() method. Test the functionalities using the main method of the Tester class.                                                                                                                                                                                                                           sample Input: {23500.0 , 25080.0 , 28760.0 , 22340.0 , 19890.0}                                 
+output:       Average salary: 23914.0 
+    Number of salaries greater than the average salary: 2.0
+    Number of salaries lesser than the average salary: 3.0
 
 import java.util.*;
 public class lab_Eg_03 {
