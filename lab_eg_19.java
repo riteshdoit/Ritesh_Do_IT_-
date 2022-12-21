@@ -1,3 +1,12 @@
+19.Create two arrayLists ,add the String elements in arrayList using add(). 
+Add one arraylist into the other from index 1 using appropriate method. 
+Print the two added list. 
+Print the index of "Are".
+Remove the 4th element from arraylist1
+Replace 4 element of arraylist2 as "U"
+             Test the functionalities using the main() method of the Tester class.
+Sample Input:    str1 - ("Hello", "How", "Are", "You")     str2 - ("Hi" , "How", "Are" ,You")                                                                                                                                                                                                          Sample Output:   [Hello, Hi, How, Are, You, How, Are, You]
+
 import java.util.*;
 public class lab_eg_19 {
    public static void main(String[] args) {
