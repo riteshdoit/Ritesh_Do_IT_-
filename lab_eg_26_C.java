@@ -1,3 +1,5 @@
+26. 3) Take 10 integer inputs from user and store them in an array. Now, copy all the elements in another array but in reverse order.
+
 import java.util.Scanner;
 
 public class lab_eg_26_C {
