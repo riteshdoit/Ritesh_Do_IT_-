@@ -1,3 +1,10 @@
+20.Create a new class Order in the Java project with the instance variables and methods mentioned below. orderId: int , orderedFoods: String, totalPrice: double, status: String  , calculateTotalPrice(int unitPrice): double.  Calculate the total price by applying a service charge of 5% on the food item ordered and store it in the instance variable totalPrice. Return the calculated total price. Create an object of the Order class, initialize the instance variables using parameterized constructor, invoke the calculateTotalPrice() method and display the values of the instance variables  in the main() method of the Tester class. Use static block to print status "Ordered". 
+ Sample Output:   Order Details:    
+Order Id: 101     
+ Ordered Food: Burger   
+ Order status: Ordered     
+ Total Price: 35
+
 class Order1{
     private int orderId;
     private String orderedFoods;
