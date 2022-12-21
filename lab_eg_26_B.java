@@ -1,3 +1,4 @@
+26. 2) Write a Java program to find the second largest element in an array.
 
 import java.util.Arrays;
 
