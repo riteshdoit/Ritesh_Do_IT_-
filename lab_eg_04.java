@@ -1,3 +1,9 @@
+4.   Write a Java Program to-
+a.      Check Armstrong                                                                       
+b.      Check that given number is palindrome or not  	
+c.      Check that given number is odd or even	
+d.      Print reverse of a number
+
 import java.util.Scanner;
 
 public class lab_eg_04 {
