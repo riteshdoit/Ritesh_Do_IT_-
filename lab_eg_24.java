@@ -1,3 +1,9 @@
+24.Two classes - Camera and DigitalCamera are provided to you. DigitalCamera extends Camera class. Both classes have their parameterized constructors.
+Camera Class:  private String brand; private double cost;     
+DigitalCamera Class: private int memory; 
+Create a instance of child class and display the output as shown below.      
+Sample Output: Nikon, 100$, 16GB
+
 class Camera{
     private String brand;
     private double cost;
