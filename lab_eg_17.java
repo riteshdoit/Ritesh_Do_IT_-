@@ -1,3 +1,5 @@
+17. Write a program to read 10 strings from console and then print the sorted strings on console (Use String Class).2) combine two string 3) reverse first string and display it.
+
 import java.util.Scanner;
 public class lab_eg_17 {
    public static void main(String[] args) {
