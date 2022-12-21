@@ -1,3 +1,5 @@
+b) Write a java program that takes two positive integers as command-line arguments and prints true if either evenly divides the other.
+
 import java.util.*;
 public class lab_eg_09_B {
     Scanner sc = new Scanner(System.in);
