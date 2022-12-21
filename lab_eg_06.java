@@ -1,3 +1,5 @@
+6.     Create Java GUI using Swing.  When clicking on the login button, it shows the credential in the label as shown in the figure.
+
 import javax.swing.*;
 import java.awt.event.*;
 public class lab_eg_06 {  
