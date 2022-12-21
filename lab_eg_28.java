@@ -1,3 +1,10 @@
+2) Count number of occurrences (or frequency) in a sorted array   
+               Input: arr[] = {1, 1, 2, 2, 2, 2, 3,},   x = 1
+               Output: 2  
+              Input: arr[] = {1, 1, 2, 2, 2, 2, 3,},   x = 4
+             Output: -1 // 4 doesn't occur in arr[]
+
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
