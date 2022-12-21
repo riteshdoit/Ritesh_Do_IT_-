@@ -1,3 +1,11 @@
+14.Write a program that reads from the user four integers representing the numerators and denominators of two fractions calculates the results of the two fractions and displays the values of the fractions sum, subtraction, multiplication and division. Display output up to two decimal places.
+ Sample Input: Enter the numerator and denominator of the first fraction: 6 4 
+Enter the numerator and denominator of the second fraction: 8 5
+Output:  The sum is: 3.10 
+The subtraction is: -0.10 
+The multiplication is: 2.40
+The division is: 0.93 
+
 import java.util.Scanner;
 public class lab_eg_14 {
    public static void main(String[] args) {
