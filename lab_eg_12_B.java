@@ -1,3 +1,4 @@
+b) Check whether the string is palindrome without using string methods.
 import java.util.Scanner;
 public class lab_eg_12_B
 {
