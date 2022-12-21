@@ -1,3 +1,5 @@
+13.Write a Java program to calculate the Factorial of an integer number using both iterative and recursive solutions.
+
 class lab_eg_13{
     public static void main(String args[]){
         int i,fact=1;
