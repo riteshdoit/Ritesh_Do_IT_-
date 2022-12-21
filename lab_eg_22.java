@@ -1,3 +1,4 @@
+22.Write a program to handle the custom exception when the number entered by user through keyboard is odd. Use throw and throws keywords. Exception name is OddNumberException. If the number is odd print message "Number is Odd" else print "Number is Even".
 
 import java.util.Scanner;
 class OddNumberException extends Exception{
