@@ -1,3 +1,6 @@
+
+26.1) Write a Java program to find the maximum and minimum value of an array    
+
 public class lab_eg_26_A {
     public static void main(String[] args) {
         int array[]= {23, 92, 56, 39, 93};
