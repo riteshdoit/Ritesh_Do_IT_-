@@ -1,0 +1,1 @@
+18. Write a program, to implement the following hierarchy. Displays information of each class the rectangle represents the classes. The classes Movie and MusicVideo inherit all the members of the class VideoTape.
