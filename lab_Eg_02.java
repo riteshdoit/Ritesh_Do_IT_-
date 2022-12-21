@@ -1,3 +1,7 @@
+//2.Given two lists, concatenate the second list in reverse order to the end of the first list and return the concatenated list. Implement the logic inside concatenateLists() method.   
+//listOne = Hello   102  200.8  25           
+//listTwo = 150  40.8   welcome   A     0
+
 import java.util.*;
 public class lab_Eg_02
 {
