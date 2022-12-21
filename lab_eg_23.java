@@ -1,3 +1,5 @@
+23.Calculate and return the sum of all the even numbers present in the numbers array passed to the method calculateSumOfEvenNumbers. Implement the logic inside calculateSumOfEvenNumbers() method. Test the functionalities using the main() method of the Tester class.
+
 public class lab_eg_23 {
    static int calculateSumOfEvenNumbers(int array[]){
        int sum=0;
