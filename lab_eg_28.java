@@ -1,3 +1,4 @@
+28.Create a GUI that has two buttons on it. When clicked, each button creates a new window. The first button creates a window that has a single button on it. Pressing that button will change the window’s background color back and forth between red and green. The second button creates a window that has two buttons. Pressing the first button of these two buttons will change the window’s background color to black. Pressing the second button will change the background color to white. Make sure that your windows will just dispose of themselves when they are closed.
 
 
 
