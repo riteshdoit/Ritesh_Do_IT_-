@@ -1,3 +1,10 @@
+5. An educational institution provides stipends for post-graduate students every year. For calculating the stipend, the institution has fixed a base amount of $100 which is provided to all the students. The students who perform exceptionally well during the academics get an extra amount based on their performance. You need to help the institution in developing an application for calculating the stipend by implementing the class using info given below. Note: STIPEND is a final variable.
+calculateTotalStipend():-Calculate and return the total stipend amount based on the aggregate marks of the student using the below table. Implement the getter and setter methods appropriately.	
+i)  Aggregate marks>=85 and <90 then bonus stipend amt is $10  
+ii) Aggregate marks>=90 and <95 then bonus stipend amt is $15
+iii) Aggregate marks>=95 and <100 then bonus stipend amt is $20  
+sample input:  student ID:1212                                                                                                                                                                                                                                                                    aggregate marks :93                                                                                                                                                                                                                                                                                                         output: the final stipend of 1212 is $115.0
+
 public class Ritesh {
     private int STIPEND = 100 ;
     private int studentId;
