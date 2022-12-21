@@ -1,3 +1,5 @@
+12. a) Write a program to check if the two strings entered by user are anagrams or not. Two words are said to be anagrams if the letters of one word can be rearranged to form the other word. For example, jaxa and ajax are anagrams of each other.
+
 import java.util.Arrays;
 
 class lab_eg_12 {
