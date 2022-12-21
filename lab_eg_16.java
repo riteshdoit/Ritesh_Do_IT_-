@@ -1,0 +1,1 @@
+16.  Implementing “Multiple Inheritance”. Create a two interfaces Account containing methods set () and display () And interface Person containing methods store () and disp(). Derive a class Customer from Person and Account. Accept the name, account number, balance and display all the information related to account along with the interest.
