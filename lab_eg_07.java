@@ -1,3 +1,5 @@
+ Create Java GUI using Swing.  When click on order button, it shows order details with bill amount in message box as shown in the figure.
+
 import javax.swing.*;  
 import java.awt.event.*;  
 public class lab_eg_07 extends JFrame implements ActionListener{  
